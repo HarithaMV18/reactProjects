@@ -1,0 +1,79 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+.bg-blue{
+  background-color: blue;
+}
+.flex{
+  display: flex;
+}
+.items-center{
+  align-items: center;
+}
+.item-flex-end{
+  align-items: flex-end;
+}
+.justify-center{
+  justify-content: center;
+}
+.justify-between{
+  justify-content: space-between;
+}
+.justify-flex-end{
+  justify-content: flex-end;
+
+}
+.justify-self{
+  justify-self: flex-end;
+}
+.justify-around{
+  justify-content: space-around;
+}
+.flex-direction-col{
+  flex-direction: column;
+}
+.width-6{
+  width: 60%;
+}
+.m-auto{
+  margin: auto;
+}
+.m-top-2{
+  margin-top: 20px;
+}
+.list-style-none{
+  list-style: none;
+}
+.py-2{
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.py-1{
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.px-1{
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.px-2{
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.px-3{
+  padding-left: 30px;
+  padding-right: 30px;
+}
+.mRight-1{
+  margin-right: 10px;
+  
+}
+.gap-2{
+  gap: 20px;
+}
+
+
+
+
